@@ -1,0 +1,528 @@
+   1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim  
+   73  touch test.txt
+   74  cd /
+   75  cd home
+   76  ls
+   77  cd skacas
+   78  cd ..
+   79  vim newfile.txt
+   80  vim test.txt
+   81  vim
+   82  vim file.txt\
+   83  vim file.txt
+   84  cat file.txt
+   85  nano file.txt
+   86  cd /
+   87  cd home
+   88  cd DEsktop
+   89  cd Desktop
+   90  mkdir grep
+   91  cd ..
+   92  mkdir grep
+   93  cd /
+   94  mkdir grep
+   95  nano
+   96  nano script1.sh
+   97  ./script1.sh
+   98  chmode +x script1.sh
+   99  chmod +x script1.sh
+  100  ./script1.sh
+  101  chmod 777 script1.sh
+  102  ./script1.sh
+  103  nano script1.sh
+  104  ./script1.sh
+  105  nano script2.sh
+  106  chmod +x script2.sh
+  107  ./script2.sh
+  108  nano script2.sh
+  109  ./script2.sh
+  110  nano script2.sh
+  111  chmod +x script2.sh
+  112  ./script2.sh
+  113  nano scrip2.sh
+  114  nano script2.sh
+  115  chmod 777 script2.sh
+  116  ./script2.sh
+  117  ls
+  118  nano script2.sh
+  119  ls
+  120  cd /
+  121  ls
+  122  cd bin
+  123  ls
+  124  cd /
+  125  ls
+  126  cd ~
+  127  ls
+  128  ./script2.sh
+  129  nano script3.sh
+  130  chmod +x script3.sh
+  131  ./script3.sh
+  132  nano script3.sh
+  133  ./script3.sh
+  134  ps
+  135  top
+  136  q
+  137  nano script3
+  138  chmod +x script3.sh
+  139  ./script3.sh
+  140  nano script3.sh
+  141  ./script3.sh
+  142  nano script3.sh
+  143  clear
+  144  sudo apt update
+  145  sudo apt install git
+  146  git --
+  147  git --version
+  148  cd /
+  149  home
+  150  cd home
+  151  ls
+  152  cd administrator
+  153  ls
+  154  cd Desktop
+  155  mkdir cloud
+  156  ls
+  157  git --version
+  158  cd cloud
+  159  git init 
+  160  git config --list
+  161  git config --global user.name "reyykhan"
+  162  git config --list
+  163  git config --global init.defaultBranch.main
+  164  git config --global user.email "raihankhanam31@gmail.com"
+  165  git config --ls
+  166  git config --list
+  167  git config --global core.eol lg
+  168  core.eol=lf
+  169  git config --global core.eol lf
+  170  git config --list
+  171  git config --global core.ignorecase true
+  172  gtg config --list
+  173  git config --list
+  174  git config --global core.autocrlf input
+  175  git config --list
+  176  ls
+  177  cd cloud
+  178  rm cloud
+  179  ls
+  180  git clone https://github.com/Reykhan-web/Democloud.git
+  181  ls
+  182  cd Democloud
+  183  git add gitfile
+  184  touch file.txt
+  185  ls
+  186  git add file.txt
+  187  cat > file.txt
+  188  git commit hi, my name is raihan and people call me reyy
+  189  git commit -m " hi, my name is raihan and people call me reyy"
+  190  git status
+  191  git commit -m "second commit"
+  192  git status
+  193  git commit -m " hi, my name is raihan and people call me reyy"
+  194  git status
+  195  git add file.txt
+  196  git status
+  197  git commit -m " hi, my name is raihan and people call me reyy"
+  198  git status
+  199  git push origin main
+  200  git remote -v
+  201  git remote set-url "https//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
+  202  git remote set-url "https//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
+  203  "
+  204  git remote set-url "https//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@github.com/reyykhan/Democloud"
+  205  git remote set-url "https//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@github.com/Reykhan-web/Democloud"
+  206  git remote set-url origin "https://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@github.com/Reykhan-web/Democloud"
+  207  git remote -v
+  208  git status
+  209  git push origin main
+  210  cd ..
+  211  mkdir reygit
+  212  cd reygit
+  213  reygit init
+  214  ls
+  215  cd ..
+  216  cd reygit
+  217  reygit --version
+  218  git --version
+  219  cd reygit
+  220  cd ..
+  221  cd /
+  222  cd home
+  223  ls
+  224  cd administrator
+  225  ls
+  226  cd Desktop
+  227  mkdir gitnew
+  228  ls
+  229  cd gitnew
+  230  git init
+  231  git config --list
+  232  git config --global user.name "raihan"
+  233  git config --list
+  234  git config --global init.defaultBranch.main
+  235  git config --global user.email "raihankhanam31@gmail.com"
+  236  git config --ls
+  237  git config --list
+  238  git config --global core.eol lf
+  239  git config --list
+  240  git config --global core.ignorecase true
+  241  git config --list
+  242  git config --global core.autocrlf input
+  243  git config --list
+  244  ls
+  245  cd gitnew
+  246  rm gitnew
+  247  ls
+  248  git clone https://github.com/Reykhan-web/trialrep.git
+  249  ls
+  250  cd trialrep
+  251  touch rep.txt
+  252  ls
+  253  git add rep.txt
+  254  git status
+  255  git push origin main
+  256  git clone "https://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
+  257  github.com/Reykhan-web/trialrep.git"
+  258  git push origin main
+  259  git clone "https://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@
+  260  github.com/Reykhan-web/trialrep.git"
+  261  git push origin main
+  262  git clone "https://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@github.com/Reykhan-web/trialrep.git"
+  263  cd gitnew
+  264  cd ..
+  265  cd gitnew
+  266  nano scriptgit
+  267  git add ./scriptgit.sh
+  268  nano scriptgit
+  269  git add ./scriptgit.sh
+  270  chmod +x scriptgit.sh
+  271  git add newfile
+  272  git add scriptgit.sh
+  273  git add newfile.txt
+  274  history
+  275  clear
+  276  cd /
+  277  cd home
+  278  ls
+  279  cd administrator
+  280  ls
+  281  cd Desktop
+  282  mkdir payment_gateway
+  283  cd payment_gateway
+  284  mkdir january
+  285  mkdir february
+  286  mkdir march
+  287  mkdir april
+  288  mkdir may
+  289  mkdir june
+  290  mkdir july
+  291  mkdir august
+  292  mkdir september
+  293  mkdir october
+  294  mkdir novembe
+  295  clear
+  296  cd /
+  297  cd home
+  298  ls
+  299  cd administrator
+  300  ls
+  301  cd Desktop
+  302  payment_gateway
+  303  clear
+  304  cd /
+  305  cd home
+  306  ls
+  307  cd administrator
+  308  ls
+  309  cd Desktop
+  310  mkdir payment_gateway
+  311  rm paymment_gateway
+  312  rm payment_gateway
+  313  rm -r payment_gateway
+  314  clear
+  315  cd /
+  316  cd home
+  317  ls
+  318  cd administrator
+  319  ls
+  320  cd Desktop
+  321  mkdir payment_gateway
+  322  cd payment_gateway
+  323  mkdir january
+  324  mkdir february
+  325  mkdir march
+  326  mkdir april
+  327  mkdir may
+  328  mkdir june
+  329  mkdir july
+  330  mkdir august
+  331  mkdir september
+  332  mkdir october
+  333  mkdir november
+  334  mkdir december
+  335  cd january
+  336  touch transactionlog1.txt
+  337  cd ..
+  338  cd february
+  339  touch transactionlog2.txt
+  340  cd ..
+  341  cd march
+  342  touch transactionlog3.txt
+  343  cd ..
+  344  cd april
+  345  touch transactionlog4.txt
+  346  cd ..
+  347  cd may
+  348  touch transactionlog5.txt
+  349  cd ..
+  350  cd june
+  351  touch transactionlog6.txt
+  352  cd ..
+  353  cd july
+  354  touch transactionlog7.txt
+  355  cd ..
+  356  cd august
+  357  touch transactionlog8.txt
+  358  cd ..
+  359  cd september
+  360  touch transactionlog9.txt
+  361  cd ..
+  362  cd october
+  363  touch transactionlog10.txt
+  364  cd ..
+  365  cd november
+  366  touch transactionlog11.txt
+  367  cd ..
+  368  cd december
+  369  touch transactionlog12.txt
+  370  cd ..
+  371  mv transactionlog1.txt transactionlog2.txt
+  372  mv -l transactionlog1.txt transactionlog2.txt
+  373  mv transactionlog1.txt transactionlog2.txt
+  374  --ls
+  375  ls
+  376  pwd
+  377  mv transactionlog1.txt/home/administrator/Desktop/payment_gateway transactionlog2.txt
+  378  mv transactionlog1.txt /home/administrator/Desktop/payment_gateway transactionlog2.txt
+  379  mv transactionlog1.txt /home/administrator/Desktop/payment_gateway february
+  380  mv transactionlog1.txt /home/administrator/Desktop/payment_gateway/february
+  381  ls
+  382  cd january
+  383  ls
+  384  pwd
+  385  mv transactionlog1.txt /home/administrator/Desktop/payment_gateway/january/february
+  386  ls
+  387  ls -l
+  388  cd ..
+  389  touch config.txt
+  390  ls -l
+  391  chmod 777 config.txt
+  392  mkdir backup
+  393  pwd
+  394  cd backup
+  395  pwd
+  396  touch transactionfiles.txt
+  397  touch configurationfiles.txt
+  398  touch paymentfiles.txt
+  399  cd..
+  400  cd ..
+  401  chmod 777 config.txt
+  402  ls -l
+  403  cd backup
+  404  ls -l
+  405  cd ..
+  406  ls
+  407  cd january
+  408  ls
+  409  cd february
+  410  cd ..
+  411  cd february
+  412  ls
+  413  rm transactionlog2.txt
+  414  ls
+  415  cd ..
+  416  ls
+  417  rm cloud
+  418  rm -r cloud
+  419  rm -r preethi
+  420  nano projectscript
+  421  nano projectscript.sh
+  422  history
+  423  history 20
+  424  cd payment_gateway
+  425  ls
+  426  cd july
+  427  ls
+  428  cd transactionlog7.txt
+  429  touch > transactionlog7.txt
+  430  cat > transactionlog7.txt
+  431  history | grep "7000" transactionlog7.txt
+  432  cd ..
+  433  cd backup
+  434  ls
+  435  ls -l
+  436  cd ..
+  437  cd july
+  438  grep -l -r  "transactionlog7.txt" july 
+  439  grep -l -r  transactionlog7.txt july 
+  440  ls
+  441  cd ..
+  442  grep -l -r  "transactionlog7.txt" july 
+  443  ls
+  444  cd ..
+  445  grep -l -r  "transactionlog7.txt" payment_gateway
+  446  grep -r  "transactionlog7.txt" payment_gateway
+  447  grep -r  "*.txt" payment_gateway
+  448  cd payment_gateway
+  449  grep -r  "*.txt" payment_gateway
+  450  grep -r  "*.txt" july
+  451  grep -r -l  "*.txt" july
+  452  grep "*.txt" july
+  453  grep -r  "*.txt" july
+  454  grep -r -l  "*.txt" july
+  455  cat > transactionlog7.txt
+  456  grep -r -l  "*.txt" july
+  457  grep -r -l  "transaction log " july
+  458  cat > transactionlog7.txt
+  459  grep -r -l  "transactionlog " july
+  460  pwd
+  461  vim
+  462  mkdir user
+  463  mkdir group
+  464  mkdir others
+  465  cd user
+  466  chmod user
+  467  chmod 777 user
+  468  cd ..
+  469  chmod 777 user
+  470  ls -l
+  471  chmod 745 group
+  472  ls -1
+  473  chmod chmod 754 user
+  474  chmod 754 user
+  475  ls -1
+  476  chmod 755 group
+  477  ls -1
+  478  vim
+  479  vim task.txt
+  480  cd ..
+  481  cp payment_gateway backup 
+  482  cp payment_gateway backup
+  483  cp -r  payment_gateway backup
+  484  nano projectscript.sh
+  485  ll user
+  486  touch user.txt
+  487  ll user.txt
+  488  chmod o+x user.txt
+  489  ll user.txt
+  490  touch group.txt
+  491  ll group.txt
+  492  cd payment_gateway
+  493  ls -l
+  494  cdmod 777 config.txt
+  495  chmod 777 config.txt
+  496  ls -l
+  497  nano projectscript.sh
+  498  chmod +x projectscript.sh
+  499  ./projectscript.sh
+  500  nano projectscript.sh
+  501  chmod +x projectscript.sh
+  502  ./projectscript.sh
+  503  nano projectscript.sh
+  504  chmod +x projectscript.sh
+  505  ./projectscript.sh
+  506  top
+  507  cd user
+  508  ls -l
+  509  cd user
+  510  cd ..
+  511  cd user
+  512  history
+  513  cd /
+  514  cd home
+  515  cd administrator
+  516  cd Desktop
+  517  mkdir dir1
+  518  cd dir1
+  519  touch file.txt
+  520  cat >file.txt
+  521  grep "user" file.txt
+  522  grep -i "E" file.txt
+  523  grep "^h" file.txt
+  524  nano script.sh
+  525  nano script.txt
+  526  vim vim.txt
+  527  history
+
